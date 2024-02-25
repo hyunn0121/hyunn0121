@@ -22,8 +22,8 @@
   	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunn0121)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunn0121)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
