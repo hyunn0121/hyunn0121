@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAGYO's GITHUB&fontSize=90" />
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
 <!--
 **hyunn0121/hyunn0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
