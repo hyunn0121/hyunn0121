@@ -21,11 +21,7 @@
  	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
-<div align=center>
-	<p>My Language Rank</p>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunn0121)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![My Langauge Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunn0121)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunn0121)](https://github.com/anuraghazra/github-readme-stats)
